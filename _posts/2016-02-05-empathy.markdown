@@ -2,8 +2,14 @@
 layout: post
 title:  "Virtual Humans with Backstories"
 date:   2016-02-04 15:08:10 -0500
+year: 2014
 img: img/portfolio/emp.png
 modalID: modalEmpathy
-category: User Experience
+category: User Experience, Design
 ---
-Description forthcoming
+
+Empathy is an important interpersonal skill all medical professionals must posess. Leveraging the real-world concept of patient shadowing, I created a virtual patient (VP) experience which provided participants with patient backstory. Cutscenes, created with The Sims 3 video game, provided backstory throughout the VP experience. I found medical students who interacted with a VP enhanced with backstory, when interacting with a standardized patient, were perceived by the standardized patient as more empathetic compared to the students who interacted with a VP without backstory. The results have practical implications for building virtual human experiences to train interpersonal skills.
+
+The results of this work have been published at the Intelligent Virtual Agents 2014 conference. The paper can be found [here.][paper-link]
+
+[paper-link]: http://link.springer.com/chapter/10.1007/978-3-319-09767-1_17

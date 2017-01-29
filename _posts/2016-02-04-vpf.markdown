@@ -2,8 +2,12 @@
 layout: post
 title:  "Virtual People Factory Chat Interface"
 date:   2016-02-04 15:08:10 -0500
+year: 2013
 img: img/portfolio/vpf.png
 modalID: modalVPF
-category: Design
+category: User Experience, Design
 ---
-Description forthcoming
+
+Virtual People Factory (VPF) is my research group's web-based interface for creating and interacting with various virtual human (VH) experiences. An important component of VPF is the chat interaction page. Through iterative design, I worked with members of my research group to add features which would improve the overall virtual patient interviewing experience. Leveraging real-world concepts of the interviewing process, features like "Interview Progress" provide guidance on making meaningful progress through the interviewing experience.
+
+This chat interface has been used by hundreds of medical students across the United States.

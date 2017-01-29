@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Redesigned Wizard of Oz Interface"
+title:  "Redesigned Wizard of Oz Application"
 date:   2017-01-25
+year: 2015
 img: img/portfolio/woz.png
 modalID: modalWOZ
 category: Design
 ---
 
-Description forthcoming
+The Wizard of Oz (WOZ) selection interface has been one of the most important components for our mixed reality experiences. After WOZing countless times, I took the insights I gained into what was right and wrong with our old interface and designed a new one. The new features included remote launching of each mixed reality human (MRH) onto its respective machine, easier configuration of study settings and conditions, and an improved organization of the main WOZ selection interface (pictured above).
+
+The new WOZ application has dramatically improved study setup time and its improved ease of use has allowed us to share this application with other collaborators.

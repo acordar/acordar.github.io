@@ -2,6 +2,7 @@
 layout: post
 title:  "Adaptive Mixed Reality Humans"
 date:   2017-01-26
+year: 2017
 img: img/portfolio/wozless.png
 modalID: modalWozless
 category: Mixed Reality
@@ -9,4 +10,4 @@ video: https://www.youtube.com/embed/HSPcJ5a_B54
 ---
 In all of our mixed reality experiences, the MRHs were controlled using a Wizard of Oz (WOZ) approach: a human operator listened to participants and used a WOZ interface to select all of the responses for the MRHs.
 
-I have led an investigation into creating mixed reality experiences which no longer require a wizard. This new experience leverages the Google Cloud Speech Recognition API as well as Microsoft' Language Understanding Intelligence Service (LUIS). As seen in the video above, I've demoed an initial prototype of this experience. Using LUIS, we are working to create adaptive MRHs that can change their behavior depending on the participants behavior. This will allow for more personalized learning experiences.
+I have led an investigation into creating mixed reality experiences which no longer require a wizard. This new experience leverages the Google Cloud Speech Recognition API as well as Microsoft' Language Understanding Intelligence Service (LUIS). As seen in the video above, I've demoed an initial prototype of this experience. Using LUIS, I am working to create adaptive MRHs that can change their behavior depending on the participants behavior. This will allow for more personalized learning experiences.
