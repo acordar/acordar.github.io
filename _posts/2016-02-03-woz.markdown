@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Redesigned Wizard of Oz Interface"
+date:   2017-01-25
+img: img/portfolio/woz.png
+modalID: modalWOZ
+category: Design
+---
+
+Description forthcoming

@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Virtual People Factory Chat Interface"
+date:   2016-02-04 15:08:10 -0500
+img: img/portfolio/vpf.png
+modalID: modalVPF
+category: Design
+---
+Description forthcoming

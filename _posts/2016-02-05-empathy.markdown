@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Virtual Humans with Backstories"
+date:   2016-02-04 15:08:10 -0500
+img: img/portfolio/emp.png
+modalID: modalEmpathy
+category: User Experience
+---
+Description forthcoming

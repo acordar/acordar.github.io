@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Mixed Reality Humans as Role Models for Speaking Up"
+date:  2017-01-27
+img: img/portfolio/conflict.png
+modalID: modalConflict
+category: Mixed Reality
+---
+For this project, we created a mixed reality expereince in which MRHs were used to influence conflict resolution behavior amongst surgical technicians. We created a compelling experience in which surgical technicians witnessed a MRH surgeon argue with a MRH nurse over a patient safety issue. We found participants were more likely to speak up to a MRH surgeon after observing a MRH nurse sucessfully speak up to a MRH surgeon.
