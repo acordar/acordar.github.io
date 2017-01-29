@@ -7,7 +7,7 @@ img: img/portfolio/conflict.png
 modalID: modalConflict
 category: Mixed Reality
 ---
-For this project, I created a mixed reality experience in which MRHs were used to influence conflict resolution behavior amongst surgical technicians. I created a compelling experience in which surgical technicians witnessed a MRH surgeon argue with a MRH nurse over a patient safety issue. I found participants were more likely to speak up to a MRH surgeon after observing a MRH nurse sucessfully speak up to a MRH surgeon.
+For this project, I created a mixed reality experience in which MRHs were used to influence conflict resolution behavior amongst surgical technicians. I created a compelling experience in which surgical technicians witnessed a MRH surgeon argue with a MRH nurse over a patient safety issue. I found participants were more likely to speak up to a MRH surgeon after observing a MRH nurse successfully speak up to a MRH surgeon.
 
 The results of this work was published at the Intelligent Virtual Agents 2015 conference. The paper can be found [here.][paper-link]
 

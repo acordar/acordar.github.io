@@ -8,7 +8,7 @@ modalID: modalEmpathy
 category: User Experience, Design
 ---
 
-Empathy is an important interpersonal skill all medical professionals must posess. Leveraging the real-world concept of patient shadowing, I created a virtual patient (VP) experience which provided participants with patient backstory. Cutscenes, created with The Sims 3 video game, provided backstory throughout the VP experience. I found medical students who interacted with a VP enhanced with backstory, when interacting with a standardized patient, were perceived by the standardized patient as more empathetic compared to the students who interacted with a VP without backstory. The results have practical implications for building virtual human experiences to train interpersonal skills.
+Empathy is an important interpersonal skill all medical professionals must possess. Leveraging the real-world concept of patient shadowing, I created a virtual patient (VP) experience which provided participants with patient backstory. Cutscenes, created with The Sims 3 video game, provided backstory throughout the VP experience. I found medical students who interacted with a VP enhanced with backstory, when interacting with a standardized patient, were perceived by the standardized patient as more empathetic compared to the students who interacted with a VP without backstory. The results have practical implications for building virtual human experiences to train interpersonal skills.
 
 The results of this work have been published at the Intelligent Virtual Agents 2014 conference. The paper can be found [here.][paper-link]
 
