@@ -8,7 +8,7 @@ modalID: modalConflict
 category: Mixed Reality
 video: https://www.youtube.com/embed/6Wab_g3YO98
 ---
-For this project, I created a mixed reality experience in which MRHs were used to influence conflict resolution behavior amongst surgical technicians. I created a compelling experience in which surgical technicians witnessed a MRH surgeon argue with a MRH nurse over a patient safety issue. I leveraged the social learning theory to hypothesize that surgical techs would be influenced by the MRHs. I found participants were more likely to speak up to a MRH surgeon after observing a MRH nurse successfully speak up to a MRH surgeon.
+For this project, I created a mixed reality experience in which MRHs were used to influence conflict resolution behavior amongst surgical technicians. I created a compelling experience in which surgical technicians witnessed a MRH surgeon argue with a MRH nurse over a patient safety issue. I leveraged the social learning theory to hypothesize that surgical techs would be influenced by the MRHs. I found participants were more likely to speak up to a MRH surgeon after observing a MRH nurse successfully speak up to a MRH surgeon. This work was part of larger study in which over 100 nurses and surgical technicians employed at UF Health went through this experience.
 
 The results of this work was published at the Intelligent Virtual Agents 2015 conference. The paper can be found [here.][paper-link]
 

@@ -8,7 +8,7 @@ modalID: modalCLC
 category: Mixed Reality
 video: https://www.youtube.com/embed/mnqOoRcAnCw
 ---
-For this project, I investigated how to effectively design mixed reality humans (MRHs) that could influence closed loop communication behavior in anesthesia residents. As seen in the video above, real anesthesia residents' closed loop communication behavior were positively influenced. 
+For this project, I investigated how to effectively design mixed reality humans (MRHs) that could influence closed loop communication behavior in anesthesia residents. As seen in the video above, real anesthesia residents' closed loop communication behavior were positively influenced. 53 anesthesia residents employed at UF Health went through this experience.
 
 The design of this mixed reality experience was shaped by our previous experience building mixed reality medical team training simulations. I found these experiences work best when the MRHs drive the experience as participant led experiences can disrupt the flow of the simulation. MRHs can keep participants on track and ensure the learning objective is met.
 
