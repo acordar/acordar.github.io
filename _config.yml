@@ -25,6 +25,9 @@ address_city: Gainesville
 address_state: FL
 address_zip: 32601
 
+collections:
+ - studies
+
 # Build settings
 markdown: kramdown
 theme: minima
